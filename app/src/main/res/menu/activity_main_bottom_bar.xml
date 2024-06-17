@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_alarm"
+        android:title="@string/alarm"
+        android:icon="@drawable/ic_alarm" />
+
+    <item
+        android:id="@+id/item_timer"
+        android:title="@string/timer"
+        android:icon="@drawable/ic_timer" />
+
+    <item
+        android:id="@+id/item_chronometer"
+        android:title="@string/chronometer"
+        android:icon="@drawable/ic_chronometer" />
+
+    <item
+        android:id="@+id/item_settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings" />
+
+</menu>
